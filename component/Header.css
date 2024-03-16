@@ -1,0 +1,40 @@
+.TopBox {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 70px;
+}
+.MainText {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+/* .LoginLink {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+  }
+  
+  .LoginBox {
+    width: 80px;
+    height: 50px;
+    display: inline-block;
+    margin-right: 50px;
+  }
+  
+  .LoginButton {
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    background-color: #406893;
+    right: 0;
+    
+  }
+  
+  .LoginButton:hover {
+    background-color: #031230;
+  } */
